@@ -13,8 +13,8 @@
 
 <h1>📈 GitHub Stats</h1>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kise1ev&show_icons=true&theme=dark" alt="Github Stats logo" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kise1ev&layout=compact&theme=dark" alt="Language Stats logo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MadnessEFI&show_icons=true&theme=dark" alt="Github Stats logo" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadnessEFI&layout=compact&theme=dark" alt="Language Stats logo"/>
 </p>
 
 <h1>👩🏻‍💻 Primary Languages</h1>
